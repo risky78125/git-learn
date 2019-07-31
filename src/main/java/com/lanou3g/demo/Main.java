@@ -142,5 +142,8 @@ public class Main {
     }
     // 根据一个对象, 生成一个这个类
 
+    public static void generate(Object obj) {
+        System.out.println("生成代码");
+    }
 
 }
