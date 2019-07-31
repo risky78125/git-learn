@@ -144,6 +144,7 @@ public class Main {
 
     public static void generate(Object obj) {
         System.out.println("生成代码");
+        System.out.println("修复bug");
     }
 
 }
