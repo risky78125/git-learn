@@ -145,6 +145,7 @@ public class Main {
     public static void generate(Object obj) {
         System.out.println("生成代码");
         System.out.println("修复bug");
+        System.out.println("第一个人推送的代码");
     }
 
 }
