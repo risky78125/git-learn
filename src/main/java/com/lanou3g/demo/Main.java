@@ -181,7 +181,13 @@ public class Main {
         git checkout 分支名 切换分支
         git branch 查看所有分支
         git merge 分支名 合并分支, 把某个分支合并到当前分支
+        git checkout -b 分支名 origin/远程分支名
+            新建分支并切换(检出), 里面的代码直接变为远程仓库某个分支的代码
 
+        可以多次 add 然后 commit 一次
+        多次commit 然后 push 一次
+
+        一个小功能就commit一次
 
          */
 
